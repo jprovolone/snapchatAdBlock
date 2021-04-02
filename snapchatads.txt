@@ -7,25 +7,25 @@
 
 
 # Snapchat Chat
-0.0.0.0 chat-gateway-prod.chat.snapchat.com
+#0.0.0.0 chat-gateway-prod.chat.snapchat.com
 
 # Snapchat Website
-0.0.0.0 www.snapchat.com
-0.0.0.0 snapchat.com
-0.0.0.0 snap.com
+#0.0.0.0 www.snapchat.com
+#0.0.0.0 snapchat.com
+#0.0.0.0 snap.com
 
 # Snapchat App
-0.0.0.0 feelinsonice-mvm.l.google.com
-0.0.0.0 feelinsonice-hrd.appspot.com
-0.0.0.0 app.snapchat.com
-0.0.0.0 mvm.snapchat.com
+#0.0.0.0 feelinsonice-mvm.l.google.com
+#0.0.0.0 feelinsonice-hrd.appspot.com
+#0.0.0.0 app.snapchat.com
+#0.0.0.0 mvm.snapchat.com
 
 # Snapchat Login
-0.0.0.0 pro-accounts.snapchat.com
-0.0.0.0 auth.snapchat.com
+#0.0.0.0 pro-accounts.snapchat.com
+#0.0.0.0 auth.snapchat.com
 
 # Snapkit
-0.0.0.0 api.snapkit.com
+#0.0.0.0 api.snapkit.com
 
 # Other
 0.0.0.0 sc-cdn.net
